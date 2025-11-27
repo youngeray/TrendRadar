@@ -138,8 +138,8 @@ platforms:
   # === 社交/短视频/娱乐类 ===
   - id: "weibo"
     name: "微博"
-  - id: "douyin"
-    name: "抖音"
+  # - id: "douyin"
+  #   name: "抖音"
   # - id: "bilibili-hot-search"
   #   name: "bilibili 热搜"
   # - id: "tieba"
@@ -166,8 +166,8 @@ platforms:
   #   name: "牛客网"
   # - id: "pcbeta"
   #   name: "远景论坛"
-  - id: "sspai"
-    name: "少数派"
+  # - id: "sspai"
+  #   name: "少数派"
   # - id: "producthunt"
   #   name: "ProductHunt"
 
